@@ -1,6 +1,14 @@
 # Hi there I'm Yusuf 👋
 
-Student CyberSecurity Researcher and Software Developer. Interested in BufferOverFlow, Pwn and Reverse Engineering. Also trying to improve myself at RE. Participating CTF competitions with my team. And we need people on our team, mostly forensics, crypto and web part. 
+<br>
+
+**Student CyberSecurity Researcher and Software Developer. Interested in BufferOverFlow, Pwn and Reverse Engineering. Also trying to improve myself at RE.** **I am participating [CTF](https://ctfd.io/whats-a-ctf/) competitions with my team. If you are passionate and want to join team reach me from my discord:**
+
+<br>
+
+> Southrain #2021`
+
+<br>
 
 - :computer: I’m currently working on ITU Information Technology.
 - :writing_hand: I am currently studying at ITU Electronical and Communications Engineering.
@@ -11,9 +19,7 @@ Student CyberSecurity Researcher and Software Developer. Interested in BufferOve
 
 <br>
 
-**I'm in interested in cybersecurity, most likely reverse engineering, binary explotation, forensics and OSINT.**
-**I am participating [CTF](https://ctfd.io/whats-a-ctf/) competitions with my team. If you are passionate and want to join team reach me from my discord:**
-> Southrain #2021
+
  
  ### My Tryhackme Profile
 ![Southrain](https://user-images.githubusercontent.com/75025215/133143824-80605390-3bb3-45a0-9ba9-86544c202162.png)
