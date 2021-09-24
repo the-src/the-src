@@ -1,5 +1,7 @@
 # Hi there I'm Yusuf 👋
 
+Student CyberSecurity Researcher and Software Developer. Interested in BufferOverFlow, Pwn and Reverse Engineering. Also trying to improve myself at RE. Participating CTF competitions with my team. And we need people on our team, mostly forensics, crypto and web part. 
+
 - :computer: I’m currently working on ITU Information Technology.
 - :writing_hand: I am currently studying at ITU Electronical and Communications Engineering.
 - :kiwi_fruit:	 I’m currently learning C programming.
