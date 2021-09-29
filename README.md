@@ -19,11 +19,30 @@
 
 <br>
 
-
+<details close>
+<summary>My Stats</summary>
  
- ### My Tryhackme Profile
-![Southrain](https://user-images.githubusercontent.com/75025215/133143824-80605390-3bb3-45a0-9ba9-86544c202162.png)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-src&langs_count=8"/>
+</div>
 
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=the-src&show_icons=true&theme=cobalt&hide=prs,issues"/></
+</div>
+</details>
+
+<details close>
+<summary>My Tryhackme Profile</summary>
+
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/75025215/133143824-80605390-3bb3-45a0-9ba9-86544c202162.png">
+</div>
+</details>
+  
 <br>
 
 ## My Socials
