@@ -31,6 +31,12 @@
 <div align="center">
 <a href="https://tryhackme.com/p/Southrain"><img src="https://user-images.githubusercontent.com/75025215/133143824-80605390-3bb3-45a0-9ba9-86544c202162.png"></a>
 </div>
+
+<br>
+ 
+<div align = "center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card" />
+</div>
  
 <h2 align = "center"> Contact </h2>
 
@@ -44,5 +50,3 @@
   <a href="https://www.youtube.com/c/SoftSec"><img src="https://img.shields.io/badge/SoftSec-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 </div>
-
-<!-- created by Ömer Doğan (https://github.com/owerdogan) -->
