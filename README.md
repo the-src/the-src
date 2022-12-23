@@ -74,7 +74,7 @@ Currently, I am directing myself to **Cloud Computing and DevOps** and trying to
 <br>
 
 <div align="center">
-<a href="https://tryhackme.com/p/Southrain"><img src="https://user-images.githubusercontent.com/75025215/133143824-80605390-3bb3-45a0-9ba9-86544c202162.png"></a>
+<a href="https://tryhackme.com/p/Southrain"><img src="https://tryhackme-badges.s3.amazonaws.com/Southrain.png"></a>
 </div>
 
 <br>
