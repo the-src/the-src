@@ -32,7 +32,6 @@ Currently, I am directing myself to **Cloud Computing and DevOps** and trying to
  <img src = "https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="60">
  <img src ="https://camo.githubusercontent.com/deb558f6629474a8f95abfb9e875b127517b3ebcfbc20068d20b7918901fe721/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e7369626c652f616e7369626c652d69636f6e2e737667" width="40">
  <img src = "https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="60">
- <img src = "https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="60">
  <br>
  <h4>Version Control</h4>
  <img src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60">
