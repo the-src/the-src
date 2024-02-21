@@ -19,7 +19,7 @@ Currently, I am directing myself to **Cloud Computing and DevOps** and trying to
 - :kiwi_fruit:	 I’m currently learning AWS.
 - :snake:  I also know Python, C and Bash scripting.
 - :thinking: I’m looking for help with Reverse engineering.
-- :speech_balloon: How to reach me: [My website](https://web.itu.edu.tr/saraclioglu20)
+- :speech_balloon: How to reach me: saraclioglu[at]itu[.]edu[.]tr
  
 <h1 align = "center"> My Stats </h1>
 <hr>
@@ -71,12 +71,6 @@ Currently, I am directing myself to **Cloud Computing and DevOps** and trying to
 </div>
 
 <br>
-
-<div align="center">
-<a href="https://tryhackme.com/p/Southrain"><img src="https://tryhackme-badges.s3.amazonaws.com/Southrain.png"></a>
-</div>
-
-<br>
  
 <div align = "center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt" alt="Jokes Card" />
@@ -89,7 +83,6 @@ Currently, I am directing myself to **Cloud Computing and DevOps** and trying to
   <a href="https://linkedin.com/in/the-src"><img src="https://img.shields.io/badge/Yusuf%20Saraçlıoğlu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://yusufsaraclioglu.medium.com"><img src="https://img.shields.io/badge/Yusuf%20Saraçlıoğlu-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>
   <a href="https://www.instagram.com/y.saraclioglu/"><img src="https://img.shields.io/badge/@y.saraclioglu-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/kgr7irx25ajnk0ld5odweuale"><img src="https://img.shields.io/badge/Src-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://discord.io/soft-sec"><img src="https://img.shields.io/badge/Soft%20</>%20Sec-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/c/SoftSec"><img src="https://img.shields.io/badge/SoftSec-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
